@@ -1,16 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1769510588070.webp", PAK VS AUS LIVE
-https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ATP-26-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026 MATCH 1
+https://cdn10khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026 MATCH 2
+https://cdn04isb-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026 MATCH 3
+https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026 MATCH 1
+https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026 MATCH 2
+https://stream3.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0267ba85/main.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLm2O2Jqygnpk3126jjs0df91mTC9NacQTuSN6f7LX0C4a4QPd0BF_19bngrNrNOUo77ICNz85655ZO6LI6gDBFcWgM8Ghs2Ie8KtWHjM2uKbyLx827jyf0ApWZKiNTdVSf5PVNbIBqFSbmnSVl45hAoDDo6mWGiOhoYYkaPXrpwDOpwOAa5P5R1y7kATV/s4650/77011.jpg", ARYZAP U19 WC 2026
 https://stream3.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtthRkUd6GgV3Qjt13sRunNN2Gw2NVzGRUxM6Ug1lKN7PBVsj_xabMWyq4nUsBaugntspFY7He3_h79eyoRHqqrcwIJtBkBAdYOwMGFtXQY6vfyv07ENyaf1osMI3jaCMOBHlXA_n6Sm_8OX3mCkYquOymb8y0b0D_3l5l4_meswruhJd1COh7aabFyUff/s4650/77018.jpg", ICC U19 WC 2026 LINK 1
 https://cdn04isb-n.tamashaweb.com:8087/jazzauth/U19M-WC-A-abr/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1769419160093.webp?id=42", RSA VS SA LIVE 1
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/SAvsWI26-abr/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1769419160093.webp?id=42", RSA VS SA LIVE 2
-https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://images.aryplus.tv/big/1280-x-720_1769681997121.webp",UAE VS IRE LIVE
-https://stream3.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0267ba85/main.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 2
@@ -532,3 +534,4 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
