@@ -5,6 +5,8 @@ https://cdn10khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
 https://cdn04isb-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026 MATCH 3
 https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg",ICC LINK 4
+https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77215fc600b1b67f81952/TMSH_WEB2_DIRTY.m3u8?timeshift=1&delay=1800&mode=6
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026 MATCH 1
 https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026 MATCH 2
@@ -609,6 +611,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
