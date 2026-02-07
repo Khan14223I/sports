@@ -1,13 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", ICC TV ENGLISH
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", ICC TV English MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=5f8c15b4-5bac-41cf-b227-3685f47e6160|drmScheme=clearkey&drmLicense=
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", ICC TV URDU
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", ICC TV URDU MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=1515fde2-060d-4124-935f-e28bd5c4bfc3|drmScheme=clearkey&drmLicense=
+
+#EXTINF:-1 tvg-id="MT20: West Indies v Scotland" tvg-name="MT20: West Indies v Scotland" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU" group-title="Khan14 Sports", ICC TV ENGLISH MATCH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=fb301c18-9ad4-4ae2-a04e-1f5842c76a21
+
+#EXTINF:-1 tvg-id="MT20: West Indies v Scotland (HINDI)" tvg-name="MT20: West Indies v Scotland (HINDI)" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU" group-title="Khan14 Sports" ICC TV URDU MATCH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026 MATCH 1
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8
@@ -577,6 +593,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
