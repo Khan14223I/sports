@@ -19,6 +19,18 @@ https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", PRIME ENGLISH MATCH 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+https://a65live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/fclywfntvr/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/LD3LA29f1QUuTsmpCatwmXfV3_PQqMgV5wX36KFuFu1G7HVz0Flu87X-H5bu9_FVyKU", PRIME URDU MATCH 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc9ab6bff6028c1685847a104e2d5a21:de34baecf3f167ad1c847836397d38ca
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd
+
+
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
 
@@ -581,6 +593,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
