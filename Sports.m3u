@@ -28,7 +28,8 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1770703204~acl=%2f*~id=41aa386d-c23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
+https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026
@@ -72,7 +73,7 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQ0O4j0cTexKXYU2XfspIxWJoOoqeBIJeowVE1VB8g&s=10", SOLH SPORTS 
-http://filex.homes:8080/live/1124159533/6788828143/955658.ts
+https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
@@ -339,9 +340,15 @@ https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/330px-Flag_of_FIFA.svg.png", FIFA 2
 https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzORGLu6JYFVTMrbPwNZDAmc1-BUON_d349eG4uvJn1w&s=10", PERSIANA SPORTS 1
-https://pepsi.abntv.live/hls/4spstream.m3u8
+https://stream1.liveland.af/hls/tv/persiana-sports/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzORGLu6JYFVTMrbPwNZDAmc1-BUON_d349eG4uvJn1w&s=10", PERSIANA SPORTS 2
-https://spstr.abntv.live/hls/psstream.m3u8
+https://stream1.liveland.af/hls/tv/persiana-sports-2/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6cq9ZBCoMeXwQ_Rf9snwgl5QttcuYIBmE5QjtMFO9A&s=10", VARZESH TV
+https://stream1.liveland.af/hls/tv/varzesh/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/VarzishTV.jpg", VARZESH TAJIKISTAN
+https://stream1.liveland.af/hls/tv/varzesh-tajikistan/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpcqL3UYy5X0qyyWmRvu3VAomK9u2isTmB5ro7-k85g&s=10", FOOTBALL TAJIKISTAN 
+https://stream1.liveland.af/hls/tv/footbal/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhdlyQ3dmKWG5avSjhum-GutcQWF27S3JsmYt2ooMCQ&s=10", MMA JUNKIE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
@@ -595,6 +602,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
