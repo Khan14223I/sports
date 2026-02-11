@@ -17,7 +17,7 @@ https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83ta
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fpFK2p9.jpg", HUB SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://mh-bks400-08.starhubgo.com/bpk-token/1ac@3d4dvugiypus0g1gvtyd42hkjf5q5ifv3bh4wbda/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://mh-bks400-07.starhubgo.com/bpk-token/1ac@ynnukscqvrkjkop2yb0jc0ivefoldvsuyd2jjhda/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fplaloP.jpg", SKY SPORTS 1 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -602,6 +602,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
