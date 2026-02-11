@@ -12,7 +12,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ksczi4sz0e/
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
-https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fpFK2p9.jpg", HUB SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -22,7 +22,7 @@ https://mh-bks400-07.starhubgo.com/bpk-token/1ac@ynnukscqvrkjkop2yb0jc0ivefoldvs
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fplaloP.jpg", SKY SPORTS 1 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
-https://dice-live-oc.akamaized.net/hdntl=exp=1770703204~acl=%2f*~id=41aa386d-c237-4c6a-a212-bfc4da55a21f~data=hdntl,dWlkPTk2NDM3fGRjZS5za3lueiZpcD0yMDYuODMuOTkuOTYmZXhwPTE3NzA3MDMyMzQmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=a96964de179045c69db103ab651e19717d310e36f7af9363da6810b6b2525051/dash/live/2093721/294921-316094/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1770902070~acl=%2f*~id=2509d074-8ca8-4346-a502-31677277fc57~data=hdntl,dWlkPTk2NDM3fGRjZS5za3lueiZpcD0xMTYuMjUxLjEyOC4yNTQmZXhwPTE3NzA5MDIwOTkmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=9acfe801da9f4571b8b327500966f65fe69151f4dfd85272e11852b87c8ad198/dash/live/2093721/294921-316094/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -602,6 +602,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
