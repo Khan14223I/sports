@@ -14,6 +14,18 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ksczi4sz0e/
 #KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
 
+#EXTINF:-1 tvg-id="MT20: Nepal v Italy" tvg-name="MT20: Nepal v Italy" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827748/prd/qe784iz9vz0f0reik1is" group-title="ICC Live",MT20: Nepal v Italy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1770914503~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=5be79df1c90ca0345e032cadce52d37d35660f09c4c769011350cea33df11c9f/manifest.mpd?vcfilter=35cfa6d4-86fc-4603-aaf9-d2b2a4fd0f0b&
+
+#EXTINF:-1 tvg-id="MT20: Nepal v Italy (HINDI)" tvg-name="MT20: Nepal v Italy (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827763/prd/c69qrie7phw4whb9d9bf" group-title="ICC Live",MT20: Nepal v Italy (HINDI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1770914534~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=ba3fdb4e90fe2174b8604837a8f6d01f48f7ca2c67040c04f48a498835cdcc4a/manifest.mpd?vcfilter=da73c9d4-de4b-42cb-97f9-70f49964ba78&
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fpFK2p9.jpg", HUB SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
@@ -602,6 +614,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
