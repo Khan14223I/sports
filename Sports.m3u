@@ -17,7 +17,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fpFK2p9.jpg", HUB SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://sh-bks400-09.starhubgo.com/bpk-token/1ab@qyyaqs1kddako25dr1mzirbafheggau2qqug5eaa/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ayn0rctgxjhk2ltfgvezj1udf4aotouya0kllmda/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
 http://b1g.uk/live/123456/654321/662136.ts
@@ -600,6 +600,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
