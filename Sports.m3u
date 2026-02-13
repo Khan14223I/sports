@@ -6,8 +6,8 @@ https://aba335jaaaaaaaamdpq7rwphbdty4.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/c
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02b6e65ff2e3c3cf55a52426e03161dc:8cd7fa1463f0e7624725e89389d181e6
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ksczi4sz0e/out/v1/a3f76c40f2c74804876697c4c284780f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/0q80caubnh/out/v1/d61c7af3122d4cffb059904a26835baa/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -602,6 +602,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
