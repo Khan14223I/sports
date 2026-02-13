@@ -19,11 +19,11 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://sh-bks400-09.starhubgo.com/bpk-token/1ab@qyyaqs1kddako25dr1mzirbafheggau2qqug5eaa/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="MT20: USA v Netherlands (HINDI)" tvg-name="MT20: USA v Netherlands (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905343/prd/ot9c6bsqzamnb3q6cwpc" group-title="Khan14 Sports",MT20: USA v Netherlands (HINDI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1771015424~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=80b01531a57c5246639669da9cb0e8c5f6be5c433c7819114b7226757c170fef/manifest.mpd?vcfilter=c43d0224-f355-4b4e-b52e-b332420d8e53&
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
+http://b1g.uk/live/123456/654321/662136.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
+http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
+
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
 https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
@@ -600,6 +600,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
 
 
 
