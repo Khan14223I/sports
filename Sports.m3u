@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=def3badd95f839d4682eb92c966c715e:2e1b1c0cc049dd6bd56312be2140c6e6
-https://aba335jaaaaaaaamdpq7rwphbdty4.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/bbdup0zdgb/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
+https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
