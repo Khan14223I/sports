@@ -72,7 +72,9 @@ https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
-http://starshare.net:80/live/farhat-3379/67897-913379/613752.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/2496.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
+http://starshare.net:80/live/farhat-3379/67897-913379/158442.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhA9dgj6yqaCs8amvcGeTB7JI0VK2b-LyCVV4GMwITg&s=10", FOX CRICKET 
 http://filex.homes:8080/live/1124159533/6788828143/957577.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhA9dgj6yqaCs8amvcGeTB7JI0VK2b-LyCVV4GMwITg&s=10", FOX CRICKET 
@@ -81,11 +83,8 @@ http://starshare.net:80/live/farhat-3379/67897-913379/1856.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/12.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", ASTRO CRICKET 
 http://starshare.net:80/live/farhat-3379/67897-913379/2494.ts
-
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png" group-title="Khan14 Sports", PRIME LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
+http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
