@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=77c7355985551e0e53b14794b7e0b877:ef86a1a5444585a103b8cce925ddc549
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
