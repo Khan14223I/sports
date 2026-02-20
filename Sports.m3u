@@ -22,6 +22,9 @@ https://bks02.starhubgo.com/bpk-token/1aa@ahmypqi1qb5bs5ej1guyxyq5azybd4deafljv4
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDM-54A4jfLKWBLeza4goSzqpPtE1mn6do6rl4KozBQ&s=10",HUB SPORTS 5 HD 
+http://localhost:8000/stalker2web_v2/live.php?id=14567&vtoken=&e=.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
 http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
 
