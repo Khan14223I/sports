@@ -33,6 +33,10 @@ https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51b
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8?timeshift=1&delay=1800&mode=6
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/q3qftlp.jpg", PAK SHAHEEN VS ENG LION
+https://ml-pull-hwc.myco.io/T20/hls/index.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 2
