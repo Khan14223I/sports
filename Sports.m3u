@@ -23,6 +23,11 @@ https://mac.zenplay.top/linear-live.php?chunks=SEFFZVFrbHJYbDhIWEcwQkpoQWZIeUFPT
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
 http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/186566b6e14d12ab38ec2f6fbfb717d6.png", STAR SPORTS 2 HINDI
+http://103.180.212.191:3500/live/1985.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/186566b6e14d12ab38ec2f6fbfb717d6.png", STAR SPORTS 2 HINDI
+http://103.180.212.191:3500/live/1984.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
 https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
 
