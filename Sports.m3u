@@ -15,9 +15,6 @@ http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
 http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
-https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=	"https://iili.io/qFBO4Hl.png",MYCO LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4966ba118d156f99abc0b9a46bbe176:6d2a810a83250a2a0c659fd0332063dc
@@ -69,6 +66,8 @@ http://starshare.net:80/live/farhat-3379/67897-913379/514856.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 2
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 3
 http://starshare.net:80/live/farhat-3379/67897-913379/89.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg" , GEO SUPER 1
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/playlist.m3u8
@@ -76,6 +75,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c207
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
+https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQ0O4j0cTexKXYU2XfspIxWJoOoqeBIJeowVE1VB8g&s=10", SOLH SPORTS 
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
