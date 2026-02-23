@@ -9,26 +9,11 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/wwrmho
 #KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/dash/enc/xanygn4vv8/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3b1768e88fe20087baaa029ece65cc59:8ab5b1d0808ac9e3811750a0713d114e 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://allinonereborn.xyz/mpd/t20.jpg" group-title="Khan14 Sports",Prime Hindi 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/out/v1/bb976c39247941f3b4c9fa0a0735426d/cenc.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
 http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=	"https://iili.io/qFBO4Hl.png",MYCO LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4966ba118d156f99abc0b9a46bbe176:6d2a810a83250a2a0c659fd0332063dc
-https://ml-pull-rtmp-pk1.myco.io/Clean1/dash/index.mpd
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qFBO4Hl.png",MYCO LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=29256eae859c52928db4c3fc77b01588:0371f71ce2e897e893a9532e540fbc0f
-https://ml-pull-rtmp-pk1.myco.io/Clean2/dash/index.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
