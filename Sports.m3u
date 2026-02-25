@@ -52,10 +52,11 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad90356/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
-http://starshare.net:80/live/farhat-3379/67897-913379/130714.ts
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
 http://starshare.net:80/live/farhat-3379/67897-913379/514856.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
+http://starshare.net:80/live/farhat-3379/67897-913379/130714.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 2
@@ -66,7 +67,9 @@ http://starshare.net:80/live/farhat-3379/67897-913379/89.ts
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg" , GEO SUPER 2
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 1
+https://publlicip.tvhunter.top/ptv/index.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 2
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
 https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
