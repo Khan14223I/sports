@@ -131,8 +131,9 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="Khan14 Sports", TNT SPORTS 1 HD http://starshare.net:80/live/farhat-3379/67897-913379/199487.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/199487.ts
 
 #EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="Khan14 Sports", TNT SPORTS 2 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/186628.ts
@@ -142,6 +143,9 @@ http://starshare.net:80/live/farhat-3379/67897-913379/186629.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7-YmVHNnKqpp6xPPPiC-DtTI2FpauylnyRHOQyDfdQ&s=10" group-title="Khan14 Sports",TNT Sports 4 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/186630.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqc3UEzeLKlAWn-1k93Ej2mZFiYZyQB2oU9Q&usqp=CAU",SKY SPORTS MAIN EVENT
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqc3UEzeLKlAWn-1k93Ej2mZFiYZyQB2oU9Q&usqp=CAU",SKY SPORTS MAIN EVENT
 http://starshare.net:80/live/farhat-3379/67897-913379/186597.ts
