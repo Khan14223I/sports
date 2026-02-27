@@ -132,25 +132,32 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="Khan14 Sports", TNT SPORTS 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="Khan14 Sports", TNT SPORTS 1 HD http://starshare.net:80/live/farhat-3379/67897-913379/199487.ts
 
 #EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="Khan14 Sports", TNT SPORTS 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+http://starshare.net:80/live/farhat-3379/67897-913379/186628.ts
 
 #EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+http://starshare.net:80/live/farhat-3379/67897-913379/186629.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7-YmVHNnKqpp6xPPPiC-DtTI2FpauylnyRHOQyDfdQ&s=10" group-title="Khan14 Sports",TNT Sports 4 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+http://starshare.net:80/live/farhat-3379/67897-913379/186630.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqc3UEzeLKlAWn-1k93Ej2mZFiYZyQB2oU9Q&usqp=CAU",SKY SPORTS MAIN EVENT
+http://starshare.net:80/live/farhat-3379/67897-913379/186597.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://programmi.sky.it/images/cc/upload/f_webp/v1/sport/channel-logo-436lkeb0op",SKY SPORTS GOLF
+http://starshare.net:80/live/farhat-3379/67897-913379/186613.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://programmi.sky.it/images/cc/upload/f_webp/v1/sport/channel-logo-436lkeb0op",SKY SPORTS GOLF
+http://starshare.net:80/live/farhat-3379/67897-913379/186614.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png",SKY SPORTS MIX
+http://starshare.net:80/live/farhat-3379/67897-913379/186621.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png",SKY SPORTS ACTION
+http://starshare.net:80/live/farhat-3379/67897-913379/122413.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.bii.org/images/BII/News/Article%20Images/sky%20sports.png",SKY SPORTS PLUS
+http://starshare.net:80/live/farhat-3379/67897-913379/122414.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 1 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/675816.ts
