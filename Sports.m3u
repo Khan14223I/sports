@@ -80,6 +80,10 @@ https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png", HUB SPORTS 7
+http://starshare.net:80/live/farhat-3379/67897-913379/148166.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoxmWjOgrGXuKzNLz9sBZdr-WIXOsW6uLRTv15QxJ&s=10", HUB SPORTS 8
+http://starshare.net:80/live/farhat-3379/67897-913379/148167.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
 http://starshare.net:80/live/farhat-3379/67897-913379/2496.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
