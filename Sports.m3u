@@ -50,8 +50,11 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 11
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad90356/master.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 2
+http://starshare.net:80/live/farhat-3379/67897-913379/98.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
 http://starshare.net:80/live/farhat-3379/67897-913379/514856.ts
@@ -146,38 +149,32 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 1 HD
-http://103.175.73.12:8080/live/65/65_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 1 HD
-http://103.175.73.12:8080/live/66/66_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/675816.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Hindi HD
-http://103.175.73.12:8080/live/70/70_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98866.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 2 HD
-http://103.175.73.12:8080/live/67/67_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/675817.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 2 HD Hindi
 http://103.175.73.12:8080/live/83/83_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 2
-http://103.175.73.12:8080/live/68/68_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 3
-http://103.175.73.12:8080/live/69/69_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Select 1
-http://103.175.73.12:8080/live/72/72_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98867.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Select 2
-http://103.175.73.12:8080/live/73/73_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98868.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 1 HD
-http://103.175.73.12:8080/live/74/74_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98861.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 2 HD
-http://103.229.254.25:7001/play/a0ef/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 2 HD
-http://103.175.73.12:8080/live/76/76_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98862.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 3 HD
-http://103.175.73.12:8080/live/78/78_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98863.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 5
-http://103.175.73.12:8080/live/80/80_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 5
-http://103.175.73.12:8080/live/81/81_0.m3u8
+http://starshare.net:80/live/farhat-3379/67897-913379/98870.ts
 
 EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Khan14 Sports",PSN 1 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Khan14 Sports",PSN 2 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Khan14 Sports",PSN 4 Sports
