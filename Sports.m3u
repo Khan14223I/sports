@@ -89,6 +89,8 @@ http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/148166.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoxmWjOgrGXuKzNLz9sBZdr-WIXOsW6uLRTv15QxJ&s=10", HUB SPORTS 8
 http://starshare.net:80/live/farhat-3379/67897-913379/148167.ts
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/HubP1.png" group-title="Khan14 Sports",Hub Premier 1 FHD
+https://a1xs.vip/1100041
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
 http://starshare.net:80/live/farhat-3379/67897-913379/2496.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
