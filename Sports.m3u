@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/05/logo-transparent-cb-1.png", WILLOW HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 
@@ -18,9 +13,6 @@ https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51b
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8?timeshift=1&delay=1800&mode=6
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/q3qftlp.jpg", PAK SHAHEEN VS ENG LION
-https://ml-pull-hwc.myco.io/T20/hls/index.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
@@ -100,7 +92,7 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.ibb.co/XZpHFsBh/Fox502HD.png" group-title="Khan14 Sports",Fox Sports 502 FHD
 https://a1xs.vip/700002
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.ibb.co/Z60SQPG9/Fox-503.png" group-title="Khan14 Sports",Fox Sports 503 FHD
-https://a1xs.vip/700003
+http://starshare.net:80/live/farhat-3379/67897-913379/4750.ts
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.ibb.co/RpxSzY1R/Fox-Footy504.png" group-title="Khan14 Sports",Fox Sports 504 FHD
 https://a1xs.vip/700004
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.ibb.co/RpxSzY1R/Fox-Footy504.png" group-title="Khan14 Sports",Fox Sports 505 FHD
@@ -109,7 +101,6 @@ https://a1xs.vip/700005
 https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Khan14 Sports",Fox Sports 507 FHD
 https://a1xs.vip/700007
-
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="Khan14 Sports",SKY Sport 2 NZ
@@ -123,8 +114,9 @@ https://a1xs.vip/700035
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="Khan14 Sports",SKY Sport 6 NZ
 https://a1xs.vip/700036
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 7 NZ
-https://a1xs.vip/700037
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Khan14 Sports",Sky Sport 8 - Premier League NZ
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 9 NZ
+http://starshare.net:80/live/farhat-3379/67897-913379/24005.ts
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Khan14 Sports",Sky Sports Premier League NZ
 https://a1xs.vip/700008
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
@@ -185,7 +177,13 @@ http://starshare.net:80/live/farhat-3379/67897-913379/186597.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/186613.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://programmi.sky.it/images/cc/upload/f_webp/v1/sport/channel-logo-436lkeb0op",SKY SPORTS GOLF
 http://starshare.net:80/live/farhat-3379/67897-913379/186614.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRSYW0ThUPVn2qSan_3zHVA1_FEoltHVnsTMi5ODvuA&s=10",NBC GOLD HD
+http://starshare.net:80/live/farhat-3379/67897-913379/56.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJ9jK0Yc9QGP5bb5GbjIsC6BNub8qB8KZMeWSMMSVla2gvnrtMvGv_6k&s=10",GOLD +
+http://starshare.net:80/live/farhat-3379/67897-913379/3072.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch683_425_305",NOW GOLF
+http://starshare.net:80/live/farhat-3379/67897-913379/5712.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png",SKY SPORTS MIX
 http://starshare.net:80/live/farhat-3379/67897-913379/186621.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png",SKY SPORTS ACTION
