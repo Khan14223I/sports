@@ -92,6 +92,8 @@ http://starshare.net:80/live/farhat-3379/67897-913379/158442.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/12.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", ASTRO CRICKET 
 http://starshare.net:80/live/farhat-3379/67897-913379/2494.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
+http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.ibb.co/XZpHFsBh/Fox502HD.png" group-title="Khan14 Sports",Fox Sports 502 FHD
@@ -124,8 +126,12 @@ http://starshare.net:80/live/farhat-3379/67897-913379/24005.ts
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Khan14 Sports",Sky Sports Premier League NZ
 https://a1xs.vip/700008
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
-http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo-circle-red.png",LA LIGA 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -356,6 +362,8 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdwm3mPw7OhVjGIX86utM7LK79YY2d5kdmPKT71LJEg&s=10", TNA WRESLTING
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7i_tL-zxc2DkGWCTqzn5
