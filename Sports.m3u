@@ -45,7 +45,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad90356/master.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 
 #EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD
-http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRkFTVC5TUE9SVFMuSEQvaW5kZXgubTN1OD90b2tlbj01YWExNTdkYTRlNzcwN2M3YmI2NzRmY2E4ZWU2YzNkNGU4YzBlM2I2LTYyOWM1ZTJlODFkYjBhMjBhZmI0ZTcyYzgyMmY0ODU4LTE3NzIzOTM5NTUtMTc3MjM4MzE1NSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=042d31b1693b292a979c5faf29a4cb9ba36efb8e-f9e2beedde04c177befdaddd05d9d20f-1772826810-1772816010&remote=no_check_ip
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
