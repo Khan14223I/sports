@@ -320,6 +320,11 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 http://starshare.net:80/live/farhat-3379/67897-913379/122980.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1769066090.png",STARZPLAY SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://cors-proxy.cooks.fyi/https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1769066090.png",STARZPLAY SPORTS 3 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/158897.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20oITUzNjQM7OF9SPjWslqmKieBuN2zcYq2iFhh9vJg&s=10", DD SPORTS 
