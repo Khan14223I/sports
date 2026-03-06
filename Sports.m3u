@@ -161,6 +161,11 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/23564.ts
 
 #EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="Khan14 Sports", TNT SPORTS 2 HD
@@ -223,6 +228,11 @@ http://starshare.net:80/live/farhat-3379/67897-913379/98862.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/98863.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Khan14 Sports" group-title="",Sony Sports Ten 5
 http://starshare.net:80/live/farhat-3379/67897-913379/98870.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZgCXeK49ensdoYDyApTmvhzmfeJt5JLsYBwiHa2I3A&s=10",FOX SPORTS DEPORTES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1"group-title="Khan14 Sports" tvg-logo="https://www.spider.net.mk/images/channels/77-arena-sport-1.png", ARENA SPORT 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -345,7 +355,7 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #EXTINF:-1 tvg-id="Beinsports3" tvg-logo="https://iili.io/HpLlGEv.png" group-title="Khan14 Sports", Beinsports3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdwm3mPw7OhVjGIX86utM7LK79YY2d5kdmPKT71LJEg&s=10", TNA WRESLTING
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7i_tL-zxc2DkGWCTqzn5
