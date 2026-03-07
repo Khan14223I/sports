@@ -57,6 +57,10 @@ http://starshare.net:80/live/farhat-3379/67897-913379/98.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/514856.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
 http://starshare.net:80/live/farhat-3379/67897-913379/130714.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOGSlmopmoG0dcRoZXJQdh0gSsLGzcqGIcw&usqp=CAU",NATIONALT20
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1772969818~acl=%2f*~data=hdntl~hmac=b3f4906a23bafa6e5e2804b5ebcc6afaa7adecf78c8ba099203a1793950a23ea/level_0.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 2
