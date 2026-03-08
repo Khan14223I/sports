@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn1.wionews.com/prod/wion/images/2026/20260307/image-1772892550058.png?rect=(0,0,1200,900)&imwidth=800&imheight=600&format=webp&quality=medium",PRIME VIDEO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn1.wionews.com/prod/wion/images/2026/20260307/image-1772892550058.png?rect=(0,0,1200,900)&imwidth=800&imheight=600&format=webp&quality=medium",PRIME VIDEO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
 
