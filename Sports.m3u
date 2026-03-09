@@ -1,29 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn1.wionews.com/prod/wion/images/2026/20260307/image-1772892550058.png?rect=(0,0,1200,900)&imwidth=800&imheight=600&format=webp&quality=medium",PRIME VIDEO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn1.wionews.com/prod/wion/images/2026/20260307/image-1772892550058.png?rect=(0,0,1200,900)&imwidth=800&imheight=600&format=webp&quality=medium",PRIME VIDEO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
-http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
-https://web-swart-rho-68.vercel.app/1/index.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
-http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026
-https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fQshfCx.jpg", ICC T20 WC 2026
-https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8?timeshift=1&delay=1800&mode=6
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 2
@@ -249,6 +224,9 @@ http://starshare.net:80/live/farhat-3379/67897-913379/122413.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.bii.org/images/BII/News/Article%20Images/sky%20sports.png",SKY SPORTS PLUS
 http://starshare.net:80/live/farhat-3379/67897-913379/122414.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8C6LScVts6UWlCL0lD8vahgCyC0l5lUPlw&usqp=CAU", STAR 4K LIVE
+http://starshare.net:80/live/farhat-3379/67897-913379/333368.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 1 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/675816.ts
