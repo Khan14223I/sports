@@ -469,22 +469,63 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream3.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ50ynz9WvyeeHI7Y3cmwRN3C7ZVhWPDtr8lbNLbmgNRQ&s=10", ARY DIGITAL HD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjE0OjE4IFBNJmhhc2hfdmFsdWU9RGJHQ0ZWcVJYaVdOenVFVnl5SzYxQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM TV HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel36hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTds1E3h6cVuvAguz8j_ZOuPVYFeNdyfu4rZw&usqp=CAU", HUM TV HD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjE2OjIzIFBNJmhhc2hfdmFsdWU9TnArYURTRGh6OGpoQjFnVXRqdUwyUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTds1E3h6cVuvAguz8j_ZOuPVYFeNdyfu4rZw&usqp=CAU", HUM TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM SITARAY
+https://nayatvfe1.nayatel.com:3030/livesports/channel37sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY DIGITAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel38hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY ZINDAGI
+https://nayatvfe1.nayatel.com:3030/livesports/channel39sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png", ARY ZINDAGI
+https://stream3.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO TV HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel40hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZDjKRDqQ407J0O_96P6ppikI01WojS9HyoEXo612MA&s=10", GEO TV HD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjE4OjI0IFBNJmhhc2hfdmFsdWU9WUxQSUtPZ0txMEkwQXdmZEw4MVBrUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZDjKRDqQ407J0O_96P6ppikI01WojS9HyoEXo612MA&s=10", GEO TV HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png", ARY ZINDAGI
-https://stream3.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO KAHANI
+https://nayatvfe1.nayatel.com:3030/livesports/channel41sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EXPRESS ENTERTAINMENT
+https://nayatvfe1.nayatel.com:3030/livesports/channel43sd.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://play-lh.googleusercontent.com/ybLt_LzpD8s7W_UDGCc4A-Jm7r5SxqnlNk2bLI6c3JahEnaN1gUnXwVFnljrc8u8BHo", ARY NEWS HD
 https://stream3.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel03sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SAMAA NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel04sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DUNNYA NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel05hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EXPRESS NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel07sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 92 NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel08hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CAPITAL NEWS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel09sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV NATIONAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel10sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjREluneBEr3R1SqKbpPcmO7KkfQVW4kabN5l042LCg&s=10", ARY MUSIC 
 https://stream3.aryzap.com/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://yt3.googleusercontent.com/TsijdJg59JjzbJh67jrIDzMR37sNLTJH4jtFW2RYpbemmM733CskTPJVVbvGNd_t2Wzl9aEhvA=s900-c-k-c0x00ffffff-no-rj", DISCOVER PAKISTAN HD
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY MUSIC
+https://nayatvfe1.nayatel.com:3030/livesports/channel31sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 8XM
+https://nayatvfe1.nayatel.com:3030/livesports/channel32sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", JALWA
+https://nayatvfe1.nayatel.com:3030/livesports/channel33sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV HOME
+https://nayatvfe1.nayatel.com:3030/livesports/channel34hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BOL ENTERTAINMENT
+https://nayatvfe1.nayatel.com:3030/livesports/channel35hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZiFd0VfI8ldYTkYXNIWCNbpAR9dLlWZmkszeMbxVLg&s", PTV HOME HD
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjAzOjM0IFBNJmhhc2hfdmFsdWU9ajdmQjBmemVZNTB4aFp5YUYrd0ZoUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVHome-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzIvXhOWsSMCkBlvA24ScR3w_p6YxdSNaRBmyK70eHg&s=10", PTV NATIONAL PESHAWAR
@@ -506,6 +547,8 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://i.ytimg.com/vi/HUHLV26tvWY/maxresdefault.jpg", EXPRESS ENTERTAINMENT 
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjA1IFBNJmhhc2hfdmFsdWU9bHBYOUNOUUtuVXNaMWJLYmdOMFF5Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczzhLSCvbz_bZ6L0JAtuE96QLXXxf2cc6YKoYL8SzAA&s=10", HUM SITARAY
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM MASLA 
+https://nayatvfe1.nayatel.com:3030/livesports/channel22sd.stream/playlist.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjE3IFBNJmhhc2hfdmFsdWU9NmsvbHdobUJGNlkxQUgwZmJPT3FNUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/HumSitaray-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavfvsNh_hZSXENLI6G5-chbbSA9VuWuUtnHQvuCmkBA&s=10", SET ENTERTAINMENT
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjMyIFBNJmhhc2hfdmFsdWU9MTlKMWttTDNYZW81RDE1NXJ6TnNiZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/SetEntertainment-abr/playlist.m3u8
