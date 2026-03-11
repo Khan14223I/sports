@@ -31,6 +31,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 2
+https://nayatvfe1.nayatel.com:3030/livesports/channel151hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 3
 http://starshare.net:80/live/farhat-3379/67897-913379/98.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
@@ -43,15 +45,19 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 2
-https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+https://nayatvfe1.nayatel.com:3030/livesports/channel16hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 3
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 4
 http://starshare.net:80/live/farhat-3379/67897-913379/89.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg" , GEO SUPER 1
 http://starshare.net:80/live/farhat-3379/67897-913379/101.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg" , GEO SUPER 2
+https://nayatvfe1.nayatel.com:3030/livesports/channel17hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg" , GEO SUPER 3
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 1
-http://103.76.111.180:7780/play/a06j
+https://nayatvfe1.nayatel.com:3030/livesports/channel18hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 2
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
 #EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
@@ -270,7 +276,24 @@ http://starshare.net:80/live/farhat-3379/67897-913379/98870.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel20hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 5
+https://nayatvfe1.nayatel.com:3030/livesports/channel21hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 7
+https://nayatvfe1.nayatel.com:3030/livesports/channel102hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SUPER SPORTS RUGBY
+https://nayatvfe1.nayatel.com:3030/livesports/channel50hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS TENNIS
+https://nayatvfe1.nayatel.com:3030/livesports/channel51hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS ACTION
+https://nayatvfe1.nayatel.com:3030/livesports/channel52hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EUROSPORTS 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel53hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EUROSPORTS 2
+https://nayatvfe1.nayatel.com:3030/livesports/channel54hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS GOLF
+https://nayatvfe1.nayatel.com:3030/livesports/channel118hd.stream/playlist.m3u8
 #EXTINF:-1"group-title="Khan14 Sports" tvg-logo="https://www.spider.net.mk/images/channels/77-arena-sport-1.png", ARENA SPORT 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://www.spider.net.mk/images/channels/78-arena-sport-2.png", ARENA SPORT 2
