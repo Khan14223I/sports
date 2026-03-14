@@ -158,7 +158,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/Cr
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hXbtdEslHwdozijTXSd0o-7Di_bCWXYR_TsGuaqFag&s" group-title="Khan14 Sports", FANCODE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hXbtdEslHwdozijTXSd0o-7Di_bCWXYR_TsGuaqFag&s" group-title="Khan14 Sports", FANCODE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
