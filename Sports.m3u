@@ -673,6 +673,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfUStPxk1qJWaGZ96rN9t-7_78uj6_PFKcg&usqp=CAU", POCKET FILM
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8
 
+#EXTINF:-1 tvg-id="090bf33a56cb" tvg-name="TLC HD" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Toffee Live",TLC HD
+https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
+#EXTINF:-1 tvg-id="e12a84713a40" tvg-name="TLC" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Toffee Live",TLC
+https://sm-monirul.top/Toffee/live.php?id=e12a84713a40&e=.m3u8
+#EXTINF:-1 tvg-id="52d1df2fdb80" tvg-name="Animal Planet" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="Toffee Live",Animal Planet
+https://sm-monirul.top/Toffee/live.php?id=52d1df2fdb80&e=.m3u8
+#EXTINF:-1 tvg-id="f70ef199f41d" tvg-name="Animal Planet HD" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="Toffee Live",Animal Planet HD
+https://sm-monirul.top/Toffee/live.php?id=f70ef199f41d&e=.m3u8
+#EXTINF:-1 tvg-id="a6497ebbf14f" tvg-name="SONY BBC EARTH HD VIP" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png" group-title="Toffee Live",SONY BBC EARTH HD VIP
+https://sm-monirul.top/Toffee/live.php?id=a6497ebbf14f&e=.m3u8
+#EXTINF:-1 tvg-id="77e72f2ba472" tvg-name="Discovery HD" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Toffee Live",Discovery HD
+https://sm-monirul.top/Toffee/live.php?id=77e72f2ba472&e=.m3u8
+#EXTINF:-1 tvg-id="a1c4e01414e7" tvg-name="Discovery" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Toffee Live",Discovery
+https://sm-monirul.top/Toffee/live.php?id=a1c4e01414e7&e=.m3u8
+#EXTINF:-1 tvg-id="591ea81b1aba" tvg-name="Discovery Science" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="Toffee Live",Discovery Science
+https://sm-monirul.top/Toffee/live.php?id=591ea81b1aba&e=.m3u8
+#EXTINF:-1 tvg-id="a051de5ade20" tvg-name="Discovery Turbo" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="Toffee Live",Discovery Turbo
+https://sm-monirul.top/Toffee/live.php?id=a051de5ade20&e=.m3u8
+#EXTINF:-1 tvg-id="6789650f5629" tvg-name="Investigation Discovery HD" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="Toffee Live",Investigation Discovery HD
+https://sm-monirul.top/Toffee/live.php?id=6789650f5629&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
