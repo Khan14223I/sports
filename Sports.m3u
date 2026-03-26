@@ -5,6 +5,11 @@ https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51b
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qhdVPrF.jpg",PSL 11 2026 URDU
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PSL LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fd27d05c1bd43e88496c9c89770faaf:1b53ff84f9fefe4266920ec38376b9c1
+https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/adbaa04bfe5441199a037b7a78e6e62a/index.mpd
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 2
