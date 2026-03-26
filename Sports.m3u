@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qhdzUmb.jpg", PSL 11 2026 ENGLISH
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PSL-2026-SVOD-abr/playlist.m3u8
+https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qhdVPrF.jpg",PSL 11 2026 URDU
-https://cdn04isb-n.tamashaweb.com:8087/jazzauth/PSL_2026_Uadfree_ABR/playlist.m3u8
+https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
