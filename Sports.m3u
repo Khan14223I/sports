@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qhdzUmb.jpg", PSL 11 2026 ENGLISH
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qhdVPrF.jpg",PSL 11 2026 URDU
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://iili.io/qlNOAej.png" group-title="Khan14 Sports", Cricbuzz 2 HD
