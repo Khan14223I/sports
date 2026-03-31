@@ -20,11 +20,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=3&impolicy=contentTileVertical&imwidth=286 ",SKY SPORTS 3 NZ
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1774780322~acl=%2f*~id=b62809cd-1cba-409a-9c47-f9df986e5997~data=hdntl,aXA9MzguMTM3LjI0LjUwJmV4cD0xNzc0NjkzOTUxJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=7bd3912fa5505ebe34ccf68222e06ff2be66b5d6d01a8287585b539b0bb9c0d8/dash/live/2093734/219028-313801/manifest-d.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 
@@ -85,15 +80,19 @@ https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/f8QU5T1eMK5ZkeBxPntkogvoPBoJOgVPTnrfyapSJj4Ok1_8TVw26_mmLchMESGojxKXbRNPOYxHdiU5EqBn",M SPORTS
 https://nayatvfe1.nayatel.com:3030/livesports/channel127hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqam5Gkzfjv0pfQJETsfT_GncTHsG5GUJS9jL04ZLWBRMgIFUYktRhV8&s=10",WATAN HD
-https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
-https://stream1.liveland.af/hls/tv/tolo-sport/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQ0O4j0cTexKXYU2XfspIxWJoOoqeBIJeowVE1VB8g&s=10", SOLH SPORTS 
-https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
+#EXTINF:-1 tvg-id="hubsport1fhd" tvg-name="Hub Sport 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest/scale-to-width-down/200?cb=20190619114530" group-title="LIVE | Starhub sports",Hub Sport 1 FHD
+http://myxpanel.pro:80/live/Martin/Martin/288363.ts
+#EXTINF:-1 tvg-id="hubsports2fhd" tvg-name="Hub Sports 2 FHD" tvg-logo="https://redraws.net:443/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDtan0Ajhu5LqgW0ZlMwcPrjqYH3yvkQgpsgC10PjlhzbY3YRXufPnO7MOb7Kx_IY2I.png" group-title="LIVE | Starhub sports",Hub Sports 2 FHD
+http://myxpanel.pro:80/live/Martin/Martin/288362.ts
+#EXTINF:-1 tvg-id="hubsports3fhd" tvg-name="Hub Sports 3 FHD" tvg-logo="https://redraws.net:443/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDtan0Ajhu5LqgW0ZlMwcPrjlOOLR8GHuSgzp-FcYf8GFKTYIy0oBBwR6Ffn3kmtobQ.png" group-title="LIVE | Starhub sports",Hub Sports 3 FHD
+http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
+#EXTINF:-1 tvg-id="hubsports4fhd" tvg-name="Hub Sports 4 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyaVpR2NcxdixJkdWVcbf2z4E3UDDyKWq09VXkynGZVis.png" group-title="LIVE | Starhub sports",Hub Sports 4 FHD
+http://myxpanel.pro:80/live/Martin/Martin/288360.ts
+#EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyZ6bBZoj6QVm2KM6bJ8N6Cj00f6lgX5MSZTos52oZxk4.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
+http://myxpanel.pro:80/live/Martin/Martin/288359.ts
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png", HUB SPORTS 7
 http://starshare.net:80/live/farhat-3379/67897-913379/148166.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoxmWjOgrGXuKzNLz9sBZdr-WIXOsW6uLRTv15QxJ&s=10", HUB SPORTS 8
