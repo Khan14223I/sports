@@ -23,6 +23,9 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
 
+#EXTINF:-1 tvg-id="ukskysportsmaineventuhd" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="4K UHD SPORT",UK: Sky Sports Main Event UHD
+http://myxpanel.pro:80/live/Martin/Martin/620667.ts
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 
