@@ -80,17 +80,17 @@ https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/f8QU5T1eMK5ZkeBxPntkogvoPBoJOgVPTnrfyapSJj4Ok1_8TVw26_mmLchMESGojxKXbRNPOYxHdiU5EqBn",M SPORTS
 https://nayatvfe1.nayatel.com:3030/livesports/channel127hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hubsport1fhd" tvg-name="Hub Sport 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest/scale-to-width-down/200?cb=20190619114530" group-title="LIVE | Starhub sports",Hub Sport 1 FHD
+#EXTINF:-1 tvg-id="hubsport1fhd" tvg-name="Hub Sport 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="LIVE | Starhub sports",Hub Sport 1 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288363.ts
-#EXTINF:-1 tvg-id="hubsports2fhd" tvg-name="Hub Sports 2 FHD" tvg-logo="https://redraws.net:443/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDtan0Ajhu5LqgW0ZlMwcPrjqYH3yvkQgpsgC10PjlhzbY3YRXufPnO7MOb7Kx_IY2I.png" group-title="LIVE | Starhub sports",Hub Sports 2 FHD
+#EXTINF:-1 tvg-id="hubsports2fhd" tvg-name="Hub Sports 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="LIVE | Starhub sports",Hub Sports 2 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288362.ts
-#EXTINF:-1 tvg-id="hubsports3fhd" tvg-name="Hub Sports 3 FHD" tvg-logo="https://redraws.net:443/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDtan0Ajhu5LqgW0ZlMwcPrjlOOLR8GHuSgzp-FcYf8GFKTYIy0oBBwR6Ffn3kmtobQ.png" group-title="LIVE | Starhub sports",Hub Sports 3 FHD
+#EXTINF:-1 tvg-id="hubsports3fhd" tvg-name="Hub Sports 3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="LIVE | Starhub sports",Hub Sports 3 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
-#EXTINF:-1 tvg-id="hubsports4fhd" tvg-name="Hub Sports 4 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyaVpR2NcxdixJkdWVcbf2z4E3UDDyKWq09VXkynGZVis.png" group-title="LIVE | Starhub sports",Hub Sports 4 FHD
+#EXTINF:-1 tvg-id="hubsports4fhd" tvg-name="Hub Sports 4 FHD" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png" group-title="LIVE | Starhub sports",Hub Sports 4 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288360.ts
-#EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyZ6bBZoj6QVm2KM6bJ8N6Cj00f6lgX5MSZTos52oZxk4.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
+#EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042641983979_50.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288359.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png", HUB SPORTS 7
