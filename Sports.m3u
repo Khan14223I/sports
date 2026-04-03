@@ -114,7 +114,10 @@ http://starshare.net:80/live/farhat-3379/67897-913379/2496.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/158442.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
-http://starshare.net:80/live/farhat-3379/67897-913379/12.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/186605.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
+http://starshare.net:80/live/farhat-3379/67897-913379/186606.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", ASTRO CRICKET 
 http://starshare.net:80/live/farhat-3379/67897-913379/2494.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
