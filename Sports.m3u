@@ -5,11 +5,6 @@ https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51b
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8
 
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://iili.io/qlNOAej.png" group-title="Khan14 Sports", Cricbuzz 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
-https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
-
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -17,13 +12,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png ",FOX SPORTS 501
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd06ecf8f97a4526ba6a4b55e00f931a:2b8648806e203a44adc5fb1326770c17,3335649259ea47f7a5053d8bdf57cd34:597c2f698102cb103cdd56723a4695a2
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&hdnts=exp=1775327321~hmac=e2a39cde4868b2aeaaf75a5fc284d16aff0f91a87a5f4658246b2775d102096b|drmScheme=clearkey&drmLicense=
-
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://facwe.blog/wp-content/uploads/2025/07/starzplay-criclife-1-logopedia-png-660x660.jpg" group-title="Khan14 Sports", CRICLIFE2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://dice-live-oc.akamaized.net/hdntl=exp=1775457122~acl=/*~id=91f1dc12-2598-494a-af7f-79d9f02b7e18~data=hdntl,aXA9MzguMTM3LjMyLjI0MiZleHA9MTc3NTM3MDc1MSZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=b7fd614ab4b3b99220fa8917336b8005100fbf5b69242135fbeea9504eb8b594/dash/live/2093733/219027-313800/manifest-d.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
