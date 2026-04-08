@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
-https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8
+https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
-https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8
+https://cdn6aws.tamashaweb.com/out/v1/33441d8e8a3d4c289551e3fa151d5082/index.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
