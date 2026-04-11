@@ -10,8 +10,8 @@ https://cdn6aws.tamashaweb.com/out/v1/33441d8e8a3d4c289551e3fa151d5082/index.m3u
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",ESPN
-http://tv8k.store/live/wDq1azqWqH/dNqdfJXP5/260992.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DnoFLj3_6Z3DMk5EQNCB1HXf88LD4-K640qOHVTR7g&s ",PAPARE HD
+http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
