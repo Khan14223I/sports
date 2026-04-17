@@ -207,6 +207,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 http://starshare.net:80/live/farhat-3379/67897-913379/186628.ts
 
 #EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 3 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/186629.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJP3ZeqOXqcSYQqJUYY-5bk_ncq3yGITIisPvflq47B5EQH2YUD8rcrLI&s=10",TNT SPORTS 4 HD
