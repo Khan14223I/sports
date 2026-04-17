@@ -5,10 +5,6 @@ https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://cdn6aws.tamashaweb.com/out/v1/33441d8e8a3d4c289551e3fa151d5082/index.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
-https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8?aliyunols=on&lhs_playback_mode=1&lhs_start_unix_s_0=1776328800
-
-
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -19,8 +15,8 @@ http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a70902dcc79493f98d00064d93e8460:eb950593a82a15994676e4431113b551
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel091/channel091_mcs.isml/playlist_high.mpd?hdnts=exp=1776196128~hmac=31c1a8f76b59f86a3e38318ba1ee75a2eafc9c386d62825eaaf9fd1e0beb5e89|drmScheme=clearkey&drmLicense=6a70902dcc79493f98d00064d93e8460:eb950593a82a15994676e4431113b551
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://bks02.starhubgo.com/bpk-token/1aa@lzgau1gd1aqolufsphlmlnaixfkwba3wl1brovca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
