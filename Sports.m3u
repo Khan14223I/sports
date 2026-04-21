@@ -28,9 +28,6 @@ http://starshare.net:80/live/farhat-3379/67897-913379/705142.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL HINDI 4K
 http://starshare.net:80/live/farhat-3379/67897-913379/705141.ts
 
-#EXTINF:-1 tvg-id="ukskysportsmaineventuhd" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="4K UHD SPORT",UK: Sky Sports Main Event UHD
-http://myxpanel.pro:80/live/Martin/Martin/620667.ts
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 
@@ -42,9 +39,6 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel151hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 3
 http://starshare.net:80/live/farhat-3379/67897-913379/98.ts
 
-#EXTINF:-1 tvg-id="f76c7eb00da0" tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Khan14 Sports", TEN Cricket 1
-https://sm-monirul.top/Toffee/live.php?id=f76c7eb00da0&e=.m3u8
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET 2
 http://starshare.net:80/live/farhat-3379/67897-913379/514856.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
@@ -52,10 +46,6 @@ http://starshare.net:80/live/farhat-3379/67897-913379/130714.ts
 
 #EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD
 https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD MPD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
-https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189H/playlist.m3u8
@@ -76,9 +66,6 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel18hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 2
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
 
-#EXTINF:-1 tvg-id="b18613696a70" tvg-name="ICC Test Championship Highlights" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Khan14 Sports",ICC Test Championship Highlights
-https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
-
 #EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
@@ -88,25 +75,11 @@ https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/f8QU5T1eMK5ZkeBxPntkogvoPBoJOgVPTnrfyapSJj4Ok1_8TVw26_mmLchMESGojxKXbRNPOYxHdiU5EqBn",M SPORTS
 https://nayatvfe1.nayatel.com:3030/livesports/channel127hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hubsport1fhd" tvg-name="Hub Sport 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="LIVE | Starhub sports",Hub Sport 1 FHD
-http://myxpanel.pro:80/live/Martin/Martin/288363.ts
-#EXTINF:-1 tvg-id="hubsports2fhd" tvg-name="Hub Sports 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="LIVE | Starhub sports",Hub Sports 2 FHD
-http://myxpanel.pro:80/live/Martin/Martin/288362.ts
-#EXTINF:-1 tvg-id="hubsports3fhd" tvg-name="Hub Sports 3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="LIVE | Starhub sports",Hub Sports 3 FHD
-http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
-#EXTINF:-1 tvg-id="hubsports4fhd" tvg-name="Hub Sports 4 FHD" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png" group-title="LIVE | Starhub sports",Hub Sports 4 FHD
-http://myxpanel.pro:80/live/Martin/Martin/288360.ts
-#EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042641983979_50.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
-http://myxpanel.pro:80/live/Martin/Martin/288359.ts
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png", HUB SPORTS 7
-http://starshare.net:80/live/farhat-3379/67897-913379/148166.ts
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoxmWjOgrGXuKzNLz9sBZdr-WIXOsW6uLRTv15QxJ&s=10", HUB SPORTS 8
-http://starshare.net:80/live/farhat-3379/67897-913379/148167.ts
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/HubP1.png" group-title="Khan14 Sports",Hub Premier 1 FHD
-https://a1xs.vip/1100041
+http://starshare.net:80/live/farhat-3379/67897-913379/148158.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
 http://starshare.net:80/live/farhat-3379/67897-913379/2496.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10", SUPER SPORTS CRICKET
@@ -136,18 +109,19 @@ http://starshare.net:80/live/farhat-3379/67897-913379/415539.ts
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Khan14 Sports",Fox Sports 507 FHD
 http://starshare.net:80/live/farhat-3379/67897-913379/415540.ts
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
-https://a1xs.vip/700031
+http://starshare.net:80/live/farhat-3379/67897-913379/150854.ts
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="Khan14 Sports",SKY Sport 2 NZ
-https://a1xs.vip/700032
+http://starshare.net:80/live/farhat-3379/67897-913379/150855.ts
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.ibb.co/Fq4FLn9m/SSNZ3.png" group-title="Khan14 Sports",SKY Sport 3 NZ
-https://a1xs.vip/700033
+http://starshare.net:80/live/farhat-3379/67897-913379/150856.ts
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="Khan14 Sports",SKY Sport 4 NZ
-https://a1xs.vip/700034
+http://starshare.net:80/live/farhat-3379/67897-913379/150857.ts
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="Khan14 Sports",SKY Sport 5 NZ
-https://a1xs.vip/700035
+http://starshare.net:80/live/farhat-3379/67897-913379/150858.ts
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="Khan14 Sports",SKY Sport 6 NZ
-https://a1xs.vip/700036
+http://starshare.net:80/live/farhat-3379/67897-913379/150859.ts
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 7 NZ
+http://starshare.net:80/live/farhat-3379/67897-913379/150860.ts
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 9 NZ
 http://starshare.net:80/live/farhat-3379/67897-913379/24005.ts
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Khan14 Sports",Sky Sports Premier League NZ
@@ -520,7 +494,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 https://nayatvfe1.nayatel.com:3030/livesports/channel41sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EXPRESS ENTERTAINMENT
 https://nayatvfe1.nayatel.com:3030/livesports/channel43sd.stream/playlist.m3u8
-
+
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://play-lh.googleusercontent.com/ybLt_LzpD8s7W_UDGCc4A-Jm7r5SxqnlNk2bLI6c3JahEnaN1gUnXwVFnljrc8u8BHo", ARY NEWS HD
 https://stream3.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO NEWS
