@@ -110,22 +110,25 @@ http://starshare.net:80/live/farhat-3379/67897-913379/415539.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/415540.ts
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
 http://starshare.net:80/live/farhat-3379/67897-913379/150854.ts
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
+http://starshare.net:80/live/farhat-3379/67897-913379/23997.ts
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="Khan14 Sports",SKY Sport 2 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150855.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/23998.ts
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.ibb.co/Fq4FLn9m/SSNZ3.png" group-title="Khan14 Sports",SKY Sport 3 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150856.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/23999.ts
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="Khan14 Sports",SKY Sport 4 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150857.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/24000.ts
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="Khan14 Sports",SKY Sport 5 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150858.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/24001.ts
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="Khan14 Sports",SKY Sport 6 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150859.ts
+http://starshare.net:80/live/farhat-3379/67897-913379/24002.ts
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 7 NZ
-http://starshare.net:80/live/farhat-3379/67897-913379/150860.ts
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 9 NZ
+http://starshare.net:80/live/farhat-3379/67897-24003/.ts
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 8 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 7 NZ
+http://starshare.net:80/live/farhat-3379/67897-24004/.ts
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 9 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="Khan14 Sports",SKY Sport 9 NZ
 http://starshare.net:80/live/farhat-3379/67897-913379/24005.ts
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="Khan14 Sports",Sky Sports Premier League NZ
-https://a1xs.vip/700008
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo-circle-red.png",LA LIGA 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
