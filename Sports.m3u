@@ -8,6 +8,9 @@ https://cdn6aws.tamashaweb.com/out/v1/33441d8e8a3d4c289551e3fa151d5082/index.m3u
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11
 https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8?aliyunols=on&lhs_playback_mode=1&lhs_start_unix_s_0=1776761400
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ
+http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303628.ts
+
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
