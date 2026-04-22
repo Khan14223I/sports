@@ -2,8 +2,21 @@
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
 https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?timeshift=1&delay=1800&mode=6
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg", PSL 11 2026 ENGLISH
+https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8?timeshift=1&delay=1800&mode=6
+
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
+https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ
 http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303629.ts
