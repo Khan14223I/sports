@@ -12,7 +12,7 @@ https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5f
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ 2
 http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303629.ts
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
@@ -97,8 +97,15 @@ http://starshare.net:80/live/farhat-3379/67897-913379/186605.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
 http://starshare.net:80/live/farhat-3379/67897-913379/186606.ts
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", ASTRO CRICKET 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", CRICBUZZ
 http://starshare.net:80/live/farhat-3379/67897-913379/2494.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/B4XfkDN.png",CRICBUZZ 1
+http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303627.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/B4XlHOB.jpg",CRICBUZZ 2
+http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303628.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/B4XlHOB.jpg",CRICBUZZ 2
+http://formulatv.biz:80/live/tdlr4sisvx/m99xm1xjzy/303629.ts
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSpA-ztag8ml5xcjRwTinsGhkhVUc6E4uhurHG4bvA&s=10", THE PAPARE 
 http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
