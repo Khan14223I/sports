@@ -4,8 +4,13 @@ https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51b
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qZwxNG1.jpg",PSL 11 2026 URDU
 https://tencentcdn11.tamashaweb.com/v1/019bf9b9eb3215fc600b35c80a5fba/019bffdc5fb61ea540a817848da787/TMSH_WEB2_CLEAN.m3u8?timeshift=1&delay=1800&mode=6
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ 2
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qlNOAej.png",CRICBUZZ 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/qlNOAej.png",CRICBUZZ 2
 http://line.hmajtx.top/play/live.php?mac=00:1A:79:A3:BE:B0&stream=1109345&extension=m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
