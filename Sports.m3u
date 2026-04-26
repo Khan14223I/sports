@@ -16,8 +16,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DnoFLj3_6Z3DMk5EQNCB1HXf88LD4-K640qOHVTR7g&s ",PAPARE HD
 http://starshare.net:80/live/farhat-3379/67897-913379/269552.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVU8waCoUlKhs2T_AEeuT7bRHLAJRBwMPi9vxhR6l&s", STARZPLAY CRICKET
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn.allcouponat.com/en/2024/12/12165429/noon-food-logo-noon-food-coupon-%D9%83%D9%88%D8%AF-%D8%AE%D8%B5%D9%85-%D9%86%D9%88%D9%86-%D9%81%D9%88%D8%AF-.png", NOON FOOD
-https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
+https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
