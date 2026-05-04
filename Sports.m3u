@@ -22,6 +22,9 @@ http://starshare.net:80/live/farhat-3379/67897-913379/705142.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL HINDI 4K
 http://starshare.net:80/live/farhat-3379/67897-913379/705141.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PAK W VS ZIM W
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/PAKvsZIMWODI26-ABR/playlist.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/TapAds777/master.m3u8
 
