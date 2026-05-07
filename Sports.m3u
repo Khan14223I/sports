@@ -145,7 +145,7 @@ http://starshare.net:80/live/farhat-3379/67897-913379/415540.ts
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
-https://dice-live-oc.akamaized.net/hdntl=exp=1777823018~acl=%2f*~id=d5b3971f-7c1b-48fd-a102-a2967aacd510~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xOTkmZXhwPTE3Nzc3MzY2NDgmZWlkPTkzOTUyNSZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=a41e9f014fa624ddea23a8ba37ff4040fb0315210f02e3ef25abf4132e6da6ff/dash/live/2093666/294921-318514/manifest-d.mpd
+https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
 http://starshare.net:80/live/farhat-3379/67897-913379/150854.ts
