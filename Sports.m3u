@@ -5,7 +5,8 @@ https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
 http://premimum.online/live/jen12345/jen54321/384215.ts
@@ -14,7 +15,7 @@ http://premimum.online/live/jen12345/jen54321/384215.ts
 http://starshare.net:80/live/farhat-3379/67897-913379/186606.ts
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://starshare.net:80/live/farhat-3379/67897-913379/415534.ts
+http://premimum.online/live/jen12345/jen54321/1856.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
