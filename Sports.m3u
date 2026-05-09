@@ -147,8 +147,8 @@ http://premimum.online/live/jen12345/jen54321/4754.ts
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
-https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
 http://premimum.online/live/jen12345/jen54321/150854.ts
@@ -195,7 +195,7 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
 http://starshare.net:80/live/farhat-3379/67897-913379/23564.ts
