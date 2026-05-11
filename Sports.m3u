@@ -22,10 +22,18 @@ http://premimum.online/live/jen12345/jen54321/1856.ts
 http://premimum.online/live/jen12345/jen54321/196347.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL ENG 4K
-http://premimum.online/live/jen12345/jen54321/703301.ts
+https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL HINDI 4K
-http://premimum.online/live/jen12345/jen54321/705141.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",IPL FEED
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2b2d17ab367bc4faee5c4fcd2b3cd10:e3e1b8d53ff8a6fc7490cfa28d3c6398
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghvwefxcmd/out/v1/643e62d36fd54e39ac7ce3849ea53e34/cenc.mpd
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL HINDI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eea833f3b0b54d88a082aba5eb4c4a5:b8d0d84f77739e345c0d7aa982faa189
+https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/6cae46a137544991a86d4bb65dc75c17/index.mp
+
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY MAIN EVENT
 http://premimum.online/live/jen12345/jen54321/384215.ts
