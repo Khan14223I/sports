@@ -29,8 +29,8 @@ https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",IPL FEED
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2b2d17ab367bc4faee5c4fcd2b3cd10:e3e1b8d53ff8a6fc7490cfa28d3c6398
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghvwefxcmd/out/v1/643e62d36fd54e39ac7ce3849ea53e34/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093666/294921-318514/manifest-d.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL HINDI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
