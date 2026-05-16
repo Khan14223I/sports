@@ -31,8 +31,8 @@ https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY MAIN EVENT
 http://premimum.online/live/jen12345/jen54321/384215.ts
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PAK W VS ZIM W
-https://cdn01khi-n.tamashaweb.com:8087/jazzauth/PAKvsZIMWODI26-ABR/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",TAPE BALL TOURNAMENTS 
+https://d1ifz55gnpo4co.cloudfront.net/out/v1/04f99c82f13b4268878d2f49c660c11b/index.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/TapAds777/master.m3u8
