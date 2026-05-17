@@ -35,6 +35,9 @@ http://premimum.online/live/jen12345/jen54321/384215.ts
 https://d1ifz55gnpo4co.cloudfront.net/out/v1/04f99c82f13b4268878d2f49c660c11b/index.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779024306~acl=/hls/*~hmac=ceaa53f0bd08dd7bbf4dcbb752dda39d94315096abbd2edb4b31eafe80ebfe12
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/TapAds777/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
