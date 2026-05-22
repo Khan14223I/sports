@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4e9b3dd3-cf51-4f48-97db-615b6419c60a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/aocqbdy9ufmybp46wsxx" tvg-lang="English" group-title="Cricket",English | USA v Nepal (1st Innings) (ENGLISH)
+#EXTINF:-1 tvg-id="0d4d07b3-0250-4f47-80be-7ce06123b23c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ed1i7onkgjzqyb3yv1fa" tvg-lang="English" group-title="Cricket",English | USA v Nepal (2nd Innings) (ENGLISH)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1779449412~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7636d83beb319d2f30d2ea68fcddaa12aed36cdfbb84514854a6462c02c0dccd/manifest.mpd?vcfilter=4e9b3dd3-cf51-4f48-97db-615b6419c60a&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1779467411~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=aaf93cdbf92fb88bf842e243ff624b1aa24b73384f85795388003e63ffb6d821/manifest.mpd?vcfilter=0d4d07b3-0250-4f47-80be-7ce06123b23c&powered_by=jay_shree_ram
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
