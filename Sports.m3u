@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
 https://dice-live-oc.akamaized.net/hdntl=exp=1779547763~acl=%2F*~id=ffafa7d1-8889-4cc3-b50a-9bdfcee89037~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTMmZWlkPTk2MTUzOSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6362d7c371ce690fe0c24c35ad03005c49d3a7cd1648a8e0a08d2ea1b2e3105f/dash/live/2093717/219028-321030/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="aa654d0f-5bf3-4ee2-97a5-6178bbcd82d4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/im52dsrv7skn8xbnbwwa" tvg-lang="English" group-title="Cricket",English | 2nd T20I: England v New Zealand
+#EXTINF:-1 tvg-id="aa654d0f-5bf3-4ee2-97a5-6178bbcd82d4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/im52dsrv7skn8xbnbwwa" tvg-lang="English" group-title="Khan14 Sports",English | 2nd T20I: England v New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
