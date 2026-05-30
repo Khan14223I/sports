@@ -9,6 +9,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",TAPMAD LINK
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
@@ -26,17 +29,6 @@ http://inthezone.pro/live/Sofia/Sofia/646540.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY MAIN EVENT
 http://inthezone.pro/live/Sofia/Sofia/1402216.ts
-
-#EXTINF:-1 tvg-id="51cc92d5-0a24-466c-b890-dcf93fbe4e17" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vezebpqbrxiezpqpqe54" tvg-lang="English" group-title="Cricket",English | 2nd T20I: Pakistan v West Indies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1780094710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6afc43037827365c2fc8477c0fe7f74cf1100cdb7da1104f70d6071033093b87/manifest.mpd?vcfilter=51cc92d5-0a24-466c-b890-dcf93fbe4e17&powered_by=jay_shree_ram
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779024306~acl=/hls/*~hmac=ceaa53f0bd08dd7bbf4dcbb752dda39d94315096abbd2edb4b31eafe80ebfe12
@@ -56,14 +48,10 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Khan14 Sports", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Khan14 Sports", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Mma", Muhammad Yahya vs Mehdi Saadi | PFL 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13444" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794469831020x576.jpg" group-title="Cricket", Middlesex vs Surrey Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779631506~acl=/hls/*~hmac=edc317a3fff0c90b59e0a1b7cc3a48fd56fa71a8ac924c96f8b69cb586eae64c
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
