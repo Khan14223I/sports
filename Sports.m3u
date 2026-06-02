@@ -12,6 +12,12 @@ https://dice-live-ap.akamaized.net/hdntl=exp=1780485116~acl=*dash%2flive%2f21026
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",PAK VS AUS
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",PAK VS AUS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56816fa6c2b3fa65a5de766d52f08b7f:07c1b41782e4321883a06b73629200a0
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
+
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
