@@ -9,8 +9,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7645ce9f48e840fcbe6950b3b8c2f43a:daa5b5b1484241cc86eb2a7e7e1a5113
 https://dice-live-ap.akamaized.net/hdntl=exp=1780485116~acl=*dash%2flive%2f2102613%2f303006-322308%2f*!*dash%2flive%2f2102613-b%2f303006-322308-b%2f*~id=8fa4d1a4-acfd-4a8a-9092-8dccc719fd4d~data=hdntl,dWlkPW52ek5QRXw4NjlhNjJkNS0xMzBiLTQxMmYtOGVkMi0wZjk5NjcwN2IzNWUmaXA9MTAzLjEwMi40MS4yMCZleHA9MTc4MDQ4NTE0NCZlaWQ9MzAzMDA2JmNpZD1kY2UucGNiJm9pZD00NjYmdHlwZT1MSVZF~hmac=ab040f56b2bbdeaa6a3408cc1f5f394dd2c09d70f2f850855665c31793039af1/dash/live/2102613/303006-322308/manifest-d.mpd
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",TAPMAD LINK
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780398907~acl=/hls/*~hmac=aaf1af2196b32d38b64c9f037a81824bc7ffe978a100c1f234252d0048d2da0e
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",PAK VS AUS
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
