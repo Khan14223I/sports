@@ -10,7 +10,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",TAPMAD LINK
-https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45Q3Fec1BrHV9YRkNOSTxJZ0p3VX0RY1VzDjkIcFp2UGVWERwCAgsAcw.ts
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780398907~acl=/hls/*~hmac=aaf1af2196b32d38b64c9f037a81824bc7ffe978a100c1f234252d0048d2da0e
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
@@ -25,8 +25,10 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10527.ts
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
-http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
-
+http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
+
+
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY MAIN EVENT
 http://inthezone.pro/live/Sofia/Sofia/1402216.ts
 
@@ -147,7 +149,8 @@ http://premimum.online/live/jen12345/jen54321/4752.ts
 http://premimum.online/live/jen12345/jen54321/4753.ts
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Khan14 Sports",Fox Sports 507 FHD
 http://premimum.online/live/jen12345/jen54321/4754.ts
-
+
+
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
 https://allinonereborn.online/opplex/live877.php?id=233178
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="Khan14 Sports",SKY Sport 1 NZ
@@ -765,7 +768,8 @@ https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611
 
 #EXTINF:-1 tvg-id="090bf33a56cb" tvg-name="TLC HD" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Toffee Live",TLC HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
- 
+ 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 #EXTINF:-1 tvg-id="discovey" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Backup Z5 Education", Discovery
