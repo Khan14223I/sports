@@ -3,15 +3,17 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH6rgf.png",TNT SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd 
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg",PAK VS AUS
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LJtexlB772VfBmnb1mqbqJGQ0lfrjE8T0fLl_3iXrA&s=10",IPL ENG 4K
-https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10527.ts
