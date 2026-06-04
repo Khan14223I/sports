@@ -4,6 +4,11 @@
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PAK VS AUS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=531e20718ef84ef0951b77ecef86b836:8a753fbfd6124c9c824d7b56cd09b635
+https://dice-live-ap.akamaized.net/hdntl=exp=1780656985~acl=*dash%2flive%2f2102635%2f303007-322350%2f*!*dash%2flive%2f2102635-b%2f303007-322350-b%2f*~id=cf247869-249f-4a74-aafc-a6d8af93fa44~data=hdntl,dWlkPW52ek5QRXw4NjlhNjJkNS0xMzBiLTQxMmYtOGVkMi0wZjk5NjcwN2IzNWUmaXA9MTAzLjkzLjIxOS4xNTcmZXhwPTE3ODA2NTcwMTUmZWlkPTMwMzAwNyZjaWQ9ZGNlLnBjYiZvaWQ9NDY2JnR5cGU9TElWRQ~hmac=affebd9a62523c54274d4550a76919604333922aee9ff934a738bc5f8f160ec1/dash/live/2102635/303007-322350/manifest-d.mpd
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH6rgf.png",TNT SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
