@@ -7,19 +7,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",4K
 http://xott.live/live/atif90/554433/346382.ts
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH6rgf.png",TNT SPORTS 2 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd 
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10527.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
+http://xott.live/live/atif90/554433/346379.ts
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.ts
+http://xott.live/live/atif90/554433/348210.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
