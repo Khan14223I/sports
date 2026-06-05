@@ -5,13 +5,13 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",4K
-http://xott.live/live/atif90/554433/346382.ts
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2479.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
-http://xott.live/live/atif90/554433/346379.ts
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2480.ts
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://xott.live/live/atif90/554433/348210.ts
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6651.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SONY LIV
 http://103.180.212.191:3500/live/162.m3u8
