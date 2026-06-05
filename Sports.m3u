@@ -13,6 +13,9 @@ http://xott.live/live/atif90/554433/346379.ts
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
 http://xott.live/live/atif90/554433/348210.ts
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SONY LIV
+http://103.180.212.191:3500/live/162.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",CRICBUZZ LIVE
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
