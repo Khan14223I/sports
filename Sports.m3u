@@ -7,14 +7,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",4K
 http://xott.live/live/atif90/554433/346382.ts
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PAK VS AUS
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",PAK VS AUS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=531e20718ef84ef0951b77ecef86b836:8a753fbfd6124c9c824d7b56cd09b635
-https://dice-live-ap.akamaized.net/hdntl=exp=1780656985~acl=*dash%2flive%2f2102635%2f303007-322350%2f*!*dash%2flive%2f2102635-b%2f303007-322350-b%2f*~id=cf247869-249f-4a74-aafc-a6d8af93fa44~data=hdntl,dWlkPW52ek5QRXw4NjlhNjJkNS0xMzBiLTQxMmYtOGVkMi0wZjk5NjcwN2IzNWUmaXA9MTAzLjkzLjIxOS4xNTcmZXhwPTE3ODA2NTcwMTUmZWlkPTMwMzAwNyZjaWQ9ZGNlLnBjYiZvaWQ9NDY2JnR5cGU9TElWRQ~hmac=affebd9a62523c54274d4550a76919604333922aee9ff934a738bc5f8f160ec1/dash/live/2102635/303007-322350/manifest-d.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH6rgf.png",TNT SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -30,12 +22,7 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/10527.ts
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
-http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
-
-
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY MAIN EVENT
-http://inthezone.pro/live/Sofia/Sofia/1402216.ts
+http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD LINK
 https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779024306~acl=/hls/*~hmac=ceaa53f0bd08dd7bbf4dcbb752dda39d94315096abbd2edb4b31eafe80ebfe12
