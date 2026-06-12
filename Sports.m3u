@@ -4,26 +4,23 @@
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",4k
-https://allinonereborn.online/opplex/live128.php?id=346382
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",4K
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2479.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS MAIN UHD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/581305.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2480.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/114479.ts
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6651.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/158442.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 2 NZ
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/196347.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", TNT 4K
-http://mybirdhouses.cc/live/wRkgSeZz/yCbD7Qr/828924.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",TAPMAD FIFA
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
@@ -33,11 +30,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",TAPMAD FIFA
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA DSPORTS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://images.seeklogo.com/logo-png/31/2/tsn-1-logo-png_seeklogo-314693.png", TSN 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,21 +41,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FIFA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 1
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 2
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 3
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 4
 https://streamflexsmm.in/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 5
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA 3
 https://streamflexsmm.in/stream.php?id=Unite8-Sports2-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
