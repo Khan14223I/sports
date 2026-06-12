@@ -5,22 +5,16 @@ https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ICCWT20WC-ADFREE-2026-abr/playli
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS MAIN UHD 1
-http://tv-premium-pro.com:80/live/wezqqszfr2/i7481xvrdf/50271.ts
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS MAIN UHD 2
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/581305.ts
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/114479.ts
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/158442.ts
+
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 2 NZ
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/257584.ts
