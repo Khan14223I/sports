@@ -54,9 +54,9 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel151hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
-http://premimum.online/live/jen12345/jen54321/514856.ts
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/658436.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
-http://premimum.online/live/jen12345/jen54321/130714.ts
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/111409.m3u8
 
 #EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD
 https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
