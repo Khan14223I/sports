@@ -13,6 +13,8 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/196347.ts
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
 http://filex.me:8080/live/amin007007/nxKYVmQsTZ/250199.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/B4X1xnt.png", CRICBUZZ
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/451415.m3u8
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
