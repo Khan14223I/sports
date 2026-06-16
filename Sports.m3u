@@ -81,6 +81,9 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 1
 https://nayatvfe1.nayatel.com:3030/livesports/channel18hd.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SOLH SPORTS
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955658.m3u8
+
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Khan14 Sports", SONY TEN 1 HD
 https://b4uplay.com/sliv/stream.m3u8?id=1000009276|referer=https://b4uplay.com/
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Khan14 Sports", SONY TEN 2 HD
