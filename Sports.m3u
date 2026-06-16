@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1780467336037.webp?id=26 ",ICC WT20WC 2026
-https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8
+https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/ICCWT20WC-ADFREE-2026-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
