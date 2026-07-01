@@ -19,11 +19,14 @@ http://filex.me:8080/live/amin007007/nxKYVmQsTZ/1339631.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", WATAN HD
 http://filex.me:8080/live/amin007007/nxKYVmQsTZ/516699.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782835764540x302.jpg ",ENG VS IND
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA LQ
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",TAPMAD FIFA
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Tapmad-10293j76r4/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA TSN1
 http://filex.me:8080/live/amin007007/nxKYVmQsTZ/290734.m3u8
