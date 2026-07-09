@@ -28,6 +28,9 @@ https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 2 LIVE 
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 3 LIVE 
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",FIFA LQ
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 
