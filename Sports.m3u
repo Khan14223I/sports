@@ -103,15 +103,15 @@ http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/957589.m3u8
 #EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Khan14 Sports", SONY SIX HD
 http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/453435.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 1 HD
 http://premimum.online/live/jen12345/jen54321/675816.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Hindi HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports Hindi HD
 http://premimum.online/live/jen12345/jen54321/98866.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports",Star Sports 2 HD
 http://premimum.online/live/jen12345/jen54321/675817.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Khan14 Sports",Star Sports Select 1
 http://premimum.online/live/jen12345/jen54321/98867.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Khan14 Sports" group-title="",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Khan14 Sports",Star Sports Select 2
 http://premimum.online/live/jen12345/jen54321/98868.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg ", Cricket Gold New
