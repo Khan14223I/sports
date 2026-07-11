@@ -267,9 +267,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQZ3LhgezTeOzTkDcLh9pqdID1zMBpD13gux27aYuZA&s=10", EURO SPORTS INDIA
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjEyOjE3IFBNJmhhc2hfdmFsdWU9cExyOSt5N1IrY3pkbURhV2lSN2dNdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="258468998307" tvg-name="Khan14 Sports" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee Live",Euro Sport HD
-https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScS7-owoWwg4wXXUXzqSMYkrna6tDJ_FsOYrVJTPMgw&s=10", RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
@@ -313,6 +310,13 @@ https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://stream3.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ50ynz9WvyeeHI7Y3cmwRN3C7ZVhWPDtr8lbNLbmgNRQ&s=10", ARY DIGITAL HD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjE0OjE4IFBNJmhhc2hfdmFsdWU9RGJHQ0ZWcVJYaVdOenVFVnl5SzYxQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", ARY DIGITAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel38hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", ARY ZINDAGI
+https://nayatvfe1.nayatel.com:3030/livesports/channel39sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png", ARY ZINDAGI
+https://stream3.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
 
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", HUM TV HD
 https://nayatvfe1.nayatel.com:3030/livesports/channel36hd.stream/playlist.m3u8
@@ -320,14 +324,11 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel36hd.stream/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTds1E3h6cVuvAguz8j_ZOuPVYFeNdyfu4rZw&usqp=CAU", HUM TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 group-title=Movies & Drama" tvg-logo="", HUM SITARAY
+
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", HUM SITARAY
 https://nayatvfe1.nayatel.com:3030/livesports/channel37sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", ARY DIGITAL
-https://nayatvfe1.nayatel.com:3030/livesports/channel38hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", ARY ZINDAGI
-https://nayatvfe1.nayatel.com:3030/livesports/channel39sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png", ARY ZINDAGI
-https://stream3.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
+
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", GEO TV HD
 https://nayatvfe1.nayatel.com:3030/livesports/channel40hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZDjKRDqQ407J0O_96P6ppikI01WojS9HyoEXo612MA&s=10", GEO TV HD
@@ -337,11 +338,27 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", GEO KAHANI
 https://nayatvfe1.nayatel.com:3030/livesports/channel41sd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFblUznsBQ2OR4ATUiaGHk95PGEldKNrWJmuuulOdXg&s=10", GREEN ENTERTAINMENT 
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM3OjQ5IFBNJmhhc2hfdmFsdWU9bUlEMTNJNkt3VzlmbjZpdDhUM3pTUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZiFd0VfI8ldYTkYXNIWCNbpAR9dLlWZmkszeMbxVLg&s", PTV HOME HD
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjAzOjM0IFBNJmhhc2hfdmFsdWU9ajdmQjBmemVZNTB4aFp5YUYrd0ZoUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVHome-abr/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", PTV HOME
+https://nayatvfe1.nayatel.com:3030/livesports/channel34hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", BOL ENTERTAINMENT
+https://nayatvfe1.nayatel.com:3030/livesports/channel35hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHq2-9d-9L0Mjc59q4mHae26b1e4G_A68MzeDnYes2mg&s=10", BOL ENTERTAINMENT 
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM4OjI3IFBNJmhhc2hfdmFsdWU9R3EyUVNaMGNtRzMrNlRJT0xOQW1Qdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", EXPRESS ENTERTAINMENT
 https://nayatvfe1.nayatel.com:3030/livesports/channel43sd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://play-lh.googleusercontent.com/ybLt_LzpD8s7W_UDGCc4A-Jm7r5SxqnlNk2bLI6c3JahEnaN1gUnXwVFnljrc8u8BHo", ARY NEWS HD
 https://stream3.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypFUDmG2mOFZNjfPX0z7uVKEx639aaQkIgzHDlXTOVQ&s=10", GEO NEWS
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjIyOjE5IFBNJmhhc2hfdmFsdWU9QkNsT0Q1cWl4d1ozK2N0SFFVZ3dlQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/geoNews-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", GEO NEWS
 https://nayatvfe1.nayatel.com:3030/livesports/channel03sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", SAMAA NEWS
@@ -356,6 +373,8 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel08hd.stream/playlist.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel09sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", PTV NATIONAL
 https://nayatvfe1.nayatel.com:3030/livesports/channel10sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzIvXhOWsSMCkBlvA24ScR3w_p6YxdSNaRBmyK70eHg&s=10", PTV NATIONAL PESHAWAR
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjA1OjI2IFBNJmhhc2hfdmFsdWU9eGhCbkh4U0Q3djJGOWVSUkp3VWJIdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNational-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjREluneBEr3R1SqKbpPcmO7KkfQVW4kabN5l042LCg&s=10", ARY MUSIC 
 https://stream3.aryzap.com/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://yt3.googleusercontent.com/TsijdJg59JjzbJh67jrIDzMR37sNLTJH4jtFW2RYpbemmM733CskTPJVVbvGNd_t2Wzl9aEhvA=s900-c-k-c0x00ffffff-no-rj", DISCOVER PAKISTAN HD
@@ -366,33 +385,22 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel31sd.stream/playlist.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel32sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", JALWA
 https://nayatvfe1.nayatel.com:3030/livesports/channel33sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", PTV HOME
-https://nayatvfe1.nayatel.com:3030/livesports/channel34hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", BOL ENTERTAINMENT
-https://nayatvfe1.nayatel.com:3030/livesports/channel35hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZiFd0VfI8ldYTkYXNIWCNbpAR9dLlWZmkszeMbxVLg&s", PTV HOME HD
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjAzOjM0IFBNJmhhc2hfdmFsdWU9ajdmQjBmemVZNTB4aFp5YUYrd0ZoUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVHome-abr/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzIvXhOWsSMCkBlvA24ScR3w_p6YxdSNaRBmyK70eHg&s=10", PTV NATIONAL PESHAWAR
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjA1OjI2IFBNJmhhc2hfdmFsdWU9eGhCbkh4U0Q3djJGOWVSUkp3VWJIdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNational-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-bolan-pk.png", PTV BOLAN
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjA1OjQ0IFBNJmhhc2hfdmFsdWU9RjVFVXNYWCtkMEJqTXhCSjJFVHo3dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVBolan-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzNmYwk6H25OrfUsONEBB9Za0x00nnf200wHvJBqZAw&s", PTV NEWS HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjA0OjIyIFBNJmhhc2hfdmFsdWU9dHdrS05OVlp2Nzg2V0VlcVNMZzBwdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNews-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://yt3.googleusercontent.com/jkW7pNlPc4M0keTOS5LwBl5P-y4hgK1QIcR26ijWDoNXQcypxsC6yaJg89ftszx-Yf_PPnQn=s900-c-k-c0x00ffffff-no-rj", PAKISTAN TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVWorld-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjA1OjAwIFBNJmhhc2hfdmFsdWU9Mm9wTmZTNmN3SU1oWEJlOW8rQWlxUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVWorld-abr/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypFUDmG2mOFZNjfPX0z7uVKEx639aaQkIgzHDlXTOVQ&s=10", GEO NEWS
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA0OjIyOjE5IFBNJmhhc2hfdmFsdWU9QkNsT0Q1cWl4d1ozK2N0SFFVZ3dlQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/geoNews-abr/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFblUznsBQ2OR4ATUiaGHk95PGEldKNrWJmuuulOdXg&s=10", GREEN ENTERTAINMENT 
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM3OjQ5IFBNJmhhc2hfdmFsdWU9bUlEMTNJNkt3VzlmbjZpdDhUM3pTUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksE1uM8iNHeD6iHzC6Q3j0-2hT5dAzavDmw&usqp=CAU", INPLUS
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM4OjEyIFBNJmhhc2hfdmFsdWU9SEh3c1MvM3NMMGFNZ2N0UFNDOUo4Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Inplus-abr/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHq2-9d-9L0Mjc59q4mHae26b1e4G_A68MzeDnYes2mg&s=10", BOL ENTERTAINMENT 
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM4OjI3IFBNJmhhc2hfdmFsdWU9R3EyUVNaMGNtRzMrNlRJT0xOQW1Qdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://i.ytimg.com/vi/HUHLV26tvWY/maxresdefault.jpg", EXPRESS ENTERTAINMENT 
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjA1IFBNJmhhc2hfdmFsdWU9bHBYOUNOUUtuVXNaMWJLYmdOMFF5Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczzhLSCvbz_bZ6L0JAtuE96QLXXxf2cc6YKoYL8SzAA&s=10", HUM SITARAY
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="", HUM MASLA 
 https://nayatvfe1.nayatel.com:3030/livesports/channel22sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Drama" tvg-logo="", HUM SITARAY
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjE3IFBNJmhhc2hfdmFsdWU9NmsvbHdobUJGNlkxQUgwZmJPT3FNUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/HumSitaray-abr/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavfvsNh_hZSXENLI6G5-chbbSA9VuWuUtnHQvuCmkBA&s=10", SET ENTERTAINMENT
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA1OjM5OjMyIFBNJmhhc2hfdmFsdWU9MTlKMWttTDNYZW81RDE1NXJ6TnNiZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/SetEntertainment-abr/playlist.m3u8
@@ -478,7 +486,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
-#EXTINF:1 tvg-id="&TV SD" group-title="ZEE5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Indian CH",&TV SD
+#EXTINF:1 tvg-id="&TV SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Indian CH", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
