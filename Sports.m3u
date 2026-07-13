@@ -120,6 +120,18 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg ", Cricket Gold OLD
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
+
+#EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="Khan14 Sports", TNT SPORTS 2 HD
+https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
+
+#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 3 HD
+https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJP3ZeqOXqcSYQqJUYY-5bk_ncq3yGITIisPvflq47B5EQH2YUD8rcrLI&s=10" group-title="Khan14 Sports",TNT Sports 4 HD
+https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://play-lh.googleusercontent.com/f8QU5T1eMK5ZkeBxPntkogvoPBoJOgVPTnrfyapSJj4Ok1_8TVw26_mmLchMESGojxKXbRNPOYxHdiU5EqBn",M SPORTS
 https://nayatvfe1.nayatel.com:3030/livesports/channel127hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 1
@@ -140,10 +152,6 @@ https://nayatvfe1.nayatel.com:3030/livesports/channel53hd.stream/playlist.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel54hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS GOLF
 https://nayatvfe1.nayatel.com:3030/livesports/channel118hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo-circle-red.png",LA LIGA 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hXbtdEslHwdozijTXSd0o-7Di_bCWXYR_TsGuaqFag&s" group-title="Khan14 Sports", FANCODE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -153,19 +161,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hXbtdEslHwdozijTXSd0o-7Di_bCWXYR_TsGuaqFag&s" group-title="Khan14 Sports", FANCODE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/dIH66J4.png",TNT SPORTS 1 HD
-http://premimum.online/live/jen12345/jen54321/23564.ts
-
-#EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="Khan14 Sports", TNT SPORTS 2 HD
-http://premimum.online/live/jen12345/jen54321/186628.ts
-
-#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 3 HD
-http://premimum.online/live/jen12345/jen54321/186629.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJP3ZeqOXqcSYQqJUYY-5bk_ncq3yGITIisPvflq47B5EQH2YUD8rcrLI&s=10" group-title="Khan14 Sports",TNT Sports 4 HD
-https://bbb.exoadash.com/TVD004/index.mpd
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZgCXeK49ensdoYDyApTmvhzmfeJt5JLsYBwiHa2I3A&s=10",FOX SPORTS DEPORTES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
