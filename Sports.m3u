@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/new/1784023397341.webp ",LPL 2026 LIVE
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/LPL-2026-adfree-c-abr/playlist.m3u8
+https://cdn04khi-n.tamashaweb.com:8087/jazzauth/LPL-2026-adfree-b-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
