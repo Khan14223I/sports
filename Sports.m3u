@@ -107,7 +107,9 @@ http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/453435.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 1 HD
 http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955660.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports Hindi HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 1 Hindi HD
+http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/90342.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 2 Hindi HD
 http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/910889.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports",Star Sports 2 HD
 http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955661.m3u8
