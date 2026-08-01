@@ -9,37 +9,37 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/250199.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/250199.m3u8
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/247166.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/247166.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 2 NZ
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/1339631.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/1339631.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",WILLOW HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/52109.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/52109.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",WILLOW 2 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/970119.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/970119.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/53044.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/53044.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", STAR 4K
 http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/966306.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", CRICBUZZ
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/451415.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/451415.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", CRICBUZZ 2
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/1342651.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/1342651.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WATAN HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/516699.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/516699.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DD SPORTS HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/911450.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/911450.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 1 LIVE 
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
@@ -54,12 +54,12 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA TSN1
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/290734.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/290734.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",UNITE8 SPORTS 1HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/1369004.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/1369004.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",UNITE8 SPORTS 2HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/1369002.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/1369002.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
@@ -68,9 +68,9 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel151hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/658436.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/658436.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/111409.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/111409.m3u8
 
 #EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD
 https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
@@ -91,35 +91,35 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 https://nayatvfe1.nayatel.com:3030/livesports/channel18hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SOLH SPORTS
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955658.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955658.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Khan14 Sports", SONY TEN 1 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/52083.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/52083.m3u8
 
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Khan14 Sports", SONY TEN 2 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/52085.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/52085.m3u8
 #EXTINF:-1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Khan14 Sports", SONY TEN 3 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/52086.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/52086.m3u8
 #EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Khan14 Sports", SONY TEN 4
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/957589.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/957589.m3u8
 #EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Khan14 Sports", SONY SIX HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/453435.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/453435.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 1 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955660.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 1 Hindi HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/90342.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/90342.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Khan14 Sports",Star Sports 2 Hindi HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/910889.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/910889.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Khan14 Sports",Star Sports 2 HD
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955661.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955661.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Khan14 Sports",Star Sports Select 1
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955663.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955663.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Khan14 Sports",Star Sports Select 2
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/955659.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/955659.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",STAR SPORTS 3
-http://filex.cc:8080/live/amin007007/nxKYVmQsTZ/846950.m3u8
+http://filex.me:8080/live/amin007007/nxKYVmQsTZ/846950.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg ", Cricket Gold New
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
