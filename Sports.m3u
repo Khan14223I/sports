@@ -569,3 +569,7 @@ https://sscsott.com/pk/paighamtv/index.fmp4.m3u8
 https://sscsott.com/paigham/pashto/index.fmp4.m3u8
 #EXTINF:-1 group-title="ISLAMIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodR_xJfVOjUKifZmmUrEQ-AeL19Wr4ZqOghq4wb2jfA&s", PAIGHAM QURAAN TV
 https://sscsott.com/qurantv/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Tamsha" tvg-logo="https://i.ytimg.com/vi/cXEU1EvA1VM/hq720.jpg?v=6a7762df&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB1vyu5Hke23npZ--DR5q5ReM2Zyg ",
+TAMASHA S5 LIVE
+https://stream3.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/main.m3u8
