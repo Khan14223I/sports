@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/new/178624538066811.webp ",Champion Cup 2026
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/new/178624538066811.webp ",Champion Cup 2026
 https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8
 
