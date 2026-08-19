@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/new/178624538066811.webp ",Champion Cup FINAL 2026
-https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/master.m3u8?hdnts=exp=1787064823~acl=/hls/*~hmac=a417399e1b37b4be83249818b8bbb31d427e8fb89f8cb1370721b2aa65b8bcd7
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/new/178624538066811.webp ",Champion Cup 2026
-https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786527338540x302.jpg ",PAK VS ENG 
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786527338540x302.jpg ",PAK VS ENG 
+https://cdn05fsd-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
