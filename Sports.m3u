@@ -43,6 +43,9 @@ http://filex.me:8080/live/amin007007/nxKYVmQsTZ/516699.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DD SPORTS HD
 http://filex.me:8080/live/amin007007/nxKYVmQsTZ/911450.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/slider/1787035473435.webp ",TOP END T20 Live
+https://cdn02khi-n.tamashaweb.com:8087/jazzauth/Tet20b-svod-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 1 LIVE 
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
